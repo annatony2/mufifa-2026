@@ -91,4 +91,9 @@
 
 #### Profile Card:
 
-<!-- I'll add my μLearn embed link later -->
+#### Profile Card:
+
+<img
+    src="https://mulearn.org/embed/rank/annatony@mulearn"
+    width="400px">
+</img>
