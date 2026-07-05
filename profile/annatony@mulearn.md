@@ -91,8 +91,6 @@
 
 #### Profile Card:
 
-#### Profile Card:
-
 <img
     src="https://mulearn.org/embed/rank/annatony@mulearn"
     width="400px">
